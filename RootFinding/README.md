@@ -1,4 +1,4 @@
-# RootFindingAlgorithm
+# Root Finding Algorithm
 ## Description
 ### This MATLAB function uses the false position root finding method to determine the root of a user-entered function
 ## Inputs
