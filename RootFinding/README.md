@@ -15,4 +15,4 @@
 - fx - function evaluated at root
 - iter - number of iterations before function determined root 
 - ea - approximate percent relative error of root
-#### Code created March 2019
+#### *Code created March 2019*
