@@ -9,4 +9,4 @@
 ### Root Finding
 ##### Uses the false position technique to determine the bounded root of an inputted function to a desired percentage of accuracy.
 
-#### Repository created May 2019
+#### *Repository created May 2019*
