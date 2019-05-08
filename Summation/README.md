@@ -1,4 +1,4 @@
-# SummationAlgorithm
+# Summation
 ## Description
 ### This MATLAB code uses a combination of the Simpsons 1/3 and Trapezoidal Rule numerical methods to evaluate the integral of vector input values.
 ## Inputs
