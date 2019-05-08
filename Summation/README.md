@@ -9,4 +9,4 @@
 ## Outputs
 ### 
 - I - the integral of the 'y' inputs with respect to the 'x' inputs
-#### Code created April 2019
+#### *Code created April 2019*
