@@ -1,4 +1,5 @@
 # Matrix Decomposition
+### luFactor.m
 ## Description
 ### This MATLAB function determines the LU factorization of a square matrix using partial pivoting.
 ## Inputs
