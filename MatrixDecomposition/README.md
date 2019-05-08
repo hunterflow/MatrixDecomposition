@@ -1,4 +1,4 @@
-# MatrixDecomposition
+# Matrix Decomposition
 ## Description
 ### This MATLAB function determines the LU factorization of a square matrix using partial pivoting.
 ## Inputs
