@@ -1,12 +1,10 @@
-# MatrixDecomposition
+# Numerical Methods Algorithms
 ## Description
-### This MATLAB function determines the LU factorization of a square matrix using partial pivoting.
-## Inputs
+### This repository contains MATLAB functions created in a Numerical Methods course at Colorado State University.
+## Algorithms
+### MatrixDecomposition
+#### Factorizes an inputted matrix into an upper and lower matrix using partial pivoting.
 ### 
-- A - square matrix which will be factored
-## Outputs
 ### 
-- L - lower triangular matrix of factorization
-- U - upper triangular matrix of factorization
-- P - pivot matrix  
-#### Code created March 2019
+  
+#### Repository created May 2019
